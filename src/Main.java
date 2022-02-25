@@ -21,6 +21,9 @@ public class Main {
         //Chamando o metodo dentro do outro.
         Emprestimo.calcular(1200, Emprestimo.getDuasParcelas());
         Emprestimo.calcular(1200, Emprestimo.getTresParcelas());
+        System.out.println("");
+
+        System.out.println("Testandoo comite");
 
 
 

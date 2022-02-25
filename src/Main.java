@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         //Calculadora
-      /*  System.out.println(" Calculadora");
+        System.out.println(" Calculadora");
 
         Calculadora.soma(3, 6);
         Calculadora.subtracao(9,1.0);
@@ -11,9 +11,9 @@ public class Main {
 
         //Mensagem
         System.out.println("Mensagem");
-        Mensagem.obeterMessagem(4);
+        Menssagem.obeterMessagem(4);
 
-        //Emprestimo*/
+        //Emprestimo
         //Chamando o Metodo e passando parametros
         Emprestimo.calcular(1000,2);
         Emprestimo.calcular(1000, 3);
@@ -23,10 +23,5 @@ public class Main {
         Emprestimo.calcular(1200, Emprestimo.getTresParcelas());
         System.out.println("");
 
-        System.out.println("Testandoo comite");
-
-
-
-
-    }
+        }
 }
